@@ -11,6 +11,7 @@ __Using with php-dev-stack__
 
 1. Clone `php-dev-stack` repo into some directory
 2. Clone `yii2-api-skeleton` into `app` directory of `php-dev-stack` directory root.
-3. Perform some settings in `docker-compose.yml` file.
-4. Run `docker-compose up -d`
-5. Profit!
+3. Run `composer install` in `app` directory and then after succeed
+4. Perform some settings in `docker-compose.yml` file.
+5. Run `docker-compose up -d`
+6. Profit!
