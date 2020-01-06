@@ -1,0 +1,22 @@
+{
+  "name": "notamedia/yii2-sentry",
+  "description": "Yii2 logger for Sentry",
+  "keywords": [
+    "sentry",
+    "yii2"
+  ],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "require": {
+    "yiisoft/yii2": "~2.0",
+    "sentry/sentry": "^1.1"
+  },
+  "require-dev": {
+    "codeception/codeception": "^2.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "notamedia\\sentry\\": "src"
+    }
+  }
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5c1b6e2-a855-4562-aa2e-72c057ec7dcf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/vendor/devmustafa/yii2-amqp" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/vendor/mongodb/mongodb" />
+      <path value="$PROJECT_DIR$/vendor/bower/inputmask" />
+      <path value="$PROJECT_DIR$/vendor/sentry/sentry" />
+      <path value="$PROJECT_DIR$/vendor/bower/jquery" />
+      <path value="$PROJECT_DIR$/vendor/bower/punycode" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/vendor/bower/yii2-pjax" />
+      <path value="$PROJECT_DIR$/vendor/notamedia/yii2-sentry" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/php-diff" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1W0uM64xEOwu0WkZFKC6ekslhVI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5c1b6e2-a855-4562-aa2e-72c057ec7dcf" name="Default Changelist" comment="" />
+      <created>1578298781965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578298781965</updated>
+      <workItem from="1578298783234" duration="689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="28" width="1357" height="1052" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578298944823">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="553" y="28" width="1357" height="1052" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1578298944823" />
+    <state x="483" y="156" width="943" height="797" key="CommitChangelistDialog2" timestamp="1578299660433">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="483" y="156" width="943" height="797" key="CommitChangelistDialog2/0.28.1920.1052@0.28.1920.1052" timestamp="1578299660433" />
+  </component>
+</project>

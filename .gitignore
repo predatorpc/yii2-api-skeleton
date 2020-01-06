@@ -1,0 +1,26 @@
+.idea
+nbproject
+.buildpath
+.project
+.vscode
+.settings
+
+composer.phar
+composer.lock
+
+Thumbs.db
+.DS_Store
+
+#
+# in future you should uncomment this
+#
+#/config/config-local.php
+#
+
+/vendor/*
+/web/assets/*
+/runtime/*
+
+tests/_data/*
+tests/_output/*
+tests/_support/_generated
