@@ -1,9 +1,11 @@
 <?php
 
+// show info
 //phpinfo();die();
-//
-error_reporting(E_ALL);
-ini_set("error_reporting",1);
+
+// enable error reporting
+//error_reporting(E_ALL);
+//ini_set("error_reporting",1);
 
 defined('YII_DEBUG') or define('YII_DEBUG', true);
 defined('YII_ENV') or define('YII_ENV', 'dev');
