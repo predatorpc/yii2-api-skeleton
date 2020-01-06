@@ -17,9 +17,9 @@ Thumbs.db
 #/config/config-local.php
 #
 
-/vendor/*
-/web/assets/*
-/runtime/*
+vendor/*
+web/assets/*
+runtime/*
 
 tests/_data/*
 tests/_output/*
